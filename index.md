@@ -33,4 +33,4 @@ Mitchell Niesar
 
 [Department of Computer Science website](https://computing.calvin.edu/)
 
-[Status Report](https://docs.google.com/presentation/d/1wmthpXqur50NJo_T9BQHd8E4o00h4NWMbdnBuSuWFys/edit#slide=id.gad5542a5fc_0_13)
+[Progress Report Slides](https://docs.google.com/presentation/d/1wmthpXqur50NJo_T9BQHd8E4o00h4NWMbdnBuSuWFys/edit#slide=id.gad5542a5fc_0_13)
