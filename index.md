@@ -20,4 +20,4 @@ eg.
 
 ### References
 
-[Department of Computer Science website](https://computing.calvin.edu/)https://computing.calvin.edu/
+[Department of Computer Science website](https://computing.calvin.edu/)
