@@ -20,7 +20,9 @@ Mitchell Niesar
 
 ### Report
 
-eg.
+#### Design Norm
+
+Transparency is a design norm that “deals with open communication and providing clear and honest information”. We are providing doctors with a more transparent view of a patient’s medical history (since information may be communicated more clearly through regular reporting with an app than the patient trying to remember all the details when they’re in the doctor’s office). We have redflags symptoms (such as losing bladder control, numbness, losing weight which are critical symptoms require immediate help) so that patients know when their symptoms indicate that they need to get help sooner (e.g., by calling their doctor or going to the ER). This is an example of transparency in that patients are receiving important information. Another example of transparency is making the user interface more intuitive (e.g., using next and back buttons with arrows instead of with text).
 
 ### References
 
