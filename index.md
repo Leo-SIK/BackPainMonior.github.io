@@ -8,7 +8,7 @@ Back pain is a problem for many people and it’s hard to record back pain. Back
 
 ### Team
 
-Catherine DeJager
+Catherine DeJager - a 5th-year senior majoring in computer science (BCS) and minoring in Mathematics, Data Science, and Linguistics. Interested in software engineering and passionate about clear communication and good user experience.
 
 SeongIl(Leo) Kim
 
