@@ -20,7 +20,7 @@ Mitchell Niesar
 
 ### Report
 
-Our report can be found at https://docs.google.com/document/d/1_Uy9HD9zkiz5i_kJdH1z5nn0RFONGgZrf-cH355YhsM/edit?usp=sharing
+[Link to the report](https://docs.google.com/document/d/1_Uy9HD9zkiz5i_kJdH1z5nn0RFONGgZrf-cH355YhsM/edit?usp=sharing)
 
 ### References
 
