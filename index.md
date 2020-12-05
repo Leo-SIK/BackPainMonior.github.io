@@ -16,6 +16,10 @@ Mitchell Niesar
 
 ### Code
 
+[Back Pain Monitoring](https://github.com/Back-Pain-Monitoring/Back-Pain-Monitor)
+
+### Project hosting
+
 [Back Pain Monitor App](https://back-pain-monitor.web.app/tabs/home)
 
 ### Report
@@ -25,5 +29,3 @@ Mitchell Niesar
 ### References
 
 [Department of Computer Science website](https://computing.calvin.edu/)
-
-[Status Report](https://docs.google.com/presentation/d/1wmthpXqur50NJo_T9BQHd8E4o00h4NWMbdnBuSuWFys/edit#slide=id.gad5542a5fc_0_13)
