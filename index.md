@@ -4,7 +4,12 @@ Intro
 
 ### Vision
 
-Back pain is a problem for many people and it’s hard to record back pain. Back pain is one of the most common injuries that is highly reoccurring and cannot easily be treated. If not treated correctly, the pain can become chronic and even disabling. Due to the nature of back pain’s random occurrences, someone might have trouble keeping track of their pain for their own records and for communicating with their doctor so that the person can describe what is happening and the doctor can provide adequate treatment. The record of pain can be highly useful to the doctor who can analyze the records and help you treat the pain.
+Back pain is a problem for many people and it’s hard to record that pain. It is one of the most common injuries that is highly reoccurring & cannot easily be treated. If it’s not treated correctly, the pain can become chronic and even disabling. Due to the nature of back pain’s random occurrences, someone might have trouble keeping track of their pain for their own records and for communicating with their physician. These records of pain can be very useful to the doctor who can then analyze them and spot patterns that could lead to a more serious injury.
+
+For the first semester, we have focussed on enabling the user to report their pain quickly and in a detailed manner. We focussed on allowing the user to not only see these records but to see insights and patterns that come with these occurrences such as the frequency in certain areas, intensity, and what makes the pain worse. Additionally, we focused on allowing the user to now enter any medication they are using, and track the pain at each use. Through this first semester, we were able to provide an application where a user can record their pain completely and see insights into their records, along with being able to filter through dates. We accomplished all our goals for the year in enabling a user to record their pain quickly and be given insights that will help stop further injury. 
+
+For the upcoming semester, we plan to implement the back end of the app which will allow for more security and to keep records stored after the app is closed. In addition, we will look to implement a way to export these reports based on the information from the logs and insights, so they can be more easily shared with the user’s physician. We are also planning on expanding medication use by giving the user a way to see all their doses and the effect they are having on the pain. 
+
 
 ### Team
 
