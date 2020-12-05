@@ -1,7 +1,5 @@
 ## Welcome to Back Pain Monitor Project Website
 
-Intro
-
 ### Vision
 
 Back pain is a problem for many people and it’s hard to record that pain. It is one of the most common injuries that is highly reoccurring & cannot easily be treated. If it’s not treated correctly, the pain can become chronic and even disabling. Due to the nature of back pain’s random occurrences, someone might have trouble keeping track of their pain for their own records and for communicating with their physician. These records of pain can be very useful to the doctor who can then analyze them and spot patterns that could lead to a more serious injury.
@@ -34,3 +32,5 @@ Mitchell Niesar
 ### References
 
 [Department of Computer Science website](https://computing.calvin.edu/)
+
+[Status Report](https://docs.google.com/presentation/d/1wmthpXqur50NJo_T9BQHd8E4o00h4NWMbdnBuSuWFys/edit#slide=id.gad5542a5fc_0_13)
