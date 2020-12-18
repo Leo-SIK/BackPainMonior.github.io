@@ -11,9 +11,9 @@ For the upcoming semester, we plan to implement the back end of the app which wi
 
 ### Team
 
-Catherine DeJager - a 5th-year senior majoring in computer science (BCS) and minoring in Mathematics, Data Science, and Linguistics. Interested in software engineering and passionate about clear communication and good user experience.
+Catherine DeJager - A 5th-year senior majoring in computer science (BCS) and minoring in Mathematics, Data Science, and Linguistics. Interested in software engineering and passionate about clear communication and good user experience.
 
-SeongIl(Leo) Kim
+SeongIl(Leo) Kim - A 4th-year senior majoring in computer science (BCS). I always had interest in web/app development and this is the great opportunity to explore things I haven't done before.
 
 Mitchell Niesar - A 4th-year senior majoring in computer science (BCS). I am very interested in exploring a career in cybersecurity and I enjoy making applications for jobs that I work at. For example I developed an application for a cleaning company that tracks progress at their job sites and keeps a database of before and after pictures. 
 
