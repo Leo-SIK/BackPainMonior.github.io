@@ -27,12 +27,10 @@ Mitchell Niesar - A 4th-year senior majoring in computer science (BCS). I am ver
 
 ### Report
 
-[Link to the report](https://docs.google.com/document/d/1_Uy9HD9zkiz5i_kJdH1z5nn0RFONGgZrf-cH355YhsM/edit?usp=sharing)
+[Final Report](https://docs.google.com/document/d/1LCuqxhvYq1DKPKfo21z0Yo7wudfwrWrVwuGsgRG3S-s/edit?usp=sharing)
 
 ### References
 
 [Department of Computer Science website](https://computing.calvin.edu/)
 
 [Status Report](https://docs.google.com/presentation/d/1wmthpXqur50NJo_T9BQHd8E4o00h4NWMbdnBuSuWFys/edit#slide=id.gad5542a5fc_0_13)
-
-[Final Report](https://docs.google.com/document/d/1LCuqxhvYq1DKPKfo21z0Yo7wudfwrWrVwuGsgRG3S-s/edit?usp=sharing)
