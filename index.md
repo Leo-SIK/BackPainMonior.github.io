@@ -17,6 +17,17 @@ SeongIl(Leo) Kim - A 4th-year senior majoring in computer science (BCS). I alway
 
 Mitchell Niesar - A 4th-year senior majoring in computer science (BCS). I am very interested in exploring a career in cybersecurity and I enjoy making applications for jobs that I work at. For example I developed an application for a cleaning company that tracks progress at their job sites and keeps a database of before and after pictures. 
 
+### App Deployment
+
+Android Installation:
+Start by running an npm install to make sure all libraries are installed. Then type “ionic cap copy” which will perform an ionic build and then copy the web assets to the capacitor native platform(s). Ionic cap update then makes sure all dependencies are accounted for. Finally type”ionic cap open android” which will open Android Studio and open your selected device, or in this case your phone.
+
+
+IOS  Installation:
+
+Start by running an npm install to make sure all libraries are installed. Then type “npm run ios” which will perform an ionic build and then copy the web assets to the capacitor native platform(s), make sure all dependencies are accounted for, and then open Xcode and open your selected device, or in this case your phone.
+
+
 ### Code
 
 [Back Pain Monitoring](https://github.com/Back-Pain-Monitoring/Back-Pain-Monitor)
