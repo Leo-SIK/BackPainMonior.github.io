@@ -20,6 +20,7 @@ Mitchell Niesar - A 4th-year senior majoring in computer science (BCS). I am ver
 ### App Deployment
 
 Android Installation:
+
 Start by running an npm install to make sure all libraries are installed. Then type “ionic cap copy” which will perform an ionic build and then copy the web assets to the capacitor native platform(s). Ionic cap update then makes sure all dependencies are accounted for. Finally type”ionic cap open android” which will open Android Studio and open your selected device, or in this case your phone.
 
 
